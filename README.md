@@ -1,6 +1,6 @@
 # taiwan-literature-exhibition
 
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="zh-TW">
 <head>
     <meta charset="UTF-8">
@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <!-- Navigation -->
+    <-- Navigation -->
     <nav class="navbar" id="navbar">
         <div class="nav-container">
             <div class="nav-brand">
@@ -35,7 +35,7 @@
     </nav>
     <-- Main Content -->
     <main class="main-content">
-        <!-- Home Section -->
+        <-- Home Section -->
         <section id="home" class="section section--home active">
             <div class="hero">
                 <div class="hero-content">
@@ -80,7 +80,7 @@
             </div>
         </section>
 
-        <!-- Exhibition Zones Section -->
+        <-- Exhibition Zones Section -->
         <section id="zones" class="section section--zones">
             <div class="container">
                 <div class="section-header">
@@ -101,7 +101,7 @@
                 </div>
 
                 <div class="zones-grid" id="zones-grid">
-                    <!-- Zone cards will be populated by JavaScript -->
+                    <-- Zone cards will be populated by JavaScript -->
                 </div>
 
                 <div class="zone-navigation">
@@ -111,7 +111,7 @@
             </div>
         </section>
 
-        <!-- Writers Section -->
+        <-- Writers Section -->
         <section id="writers" class="section section--writers">
             <div class="container">
                 <div class="section-header">
@@ -127,12 +127,12 @@
                 </div>
                 
                 <div class="writers-grid" id="writers-grid">
-                    <!-- Writer cards will be populated by JavaScript -->
+                    <-- Writer cards will be populated by JavaScript -->
                 </div>
             </div>
         </section>
 
-        <!-- Exhibits Section -->
+        <-- Exhibits Section -->
         <section id="exhibits" class="section section--exhibits">
             <div class="container">
                 <div class="section-header">
@@ -155,12 +155,12 @@
                 </div>
                 
                 <div class="exhibits-grid" id="exhibits-grid">
-                    <!-- Exhibit cards will be populated by JavaScript -->
+                    <-- Exhibit cards will be populated by JavaScript -->
                 </div>
             </div>
         </section>
 
-        <!-- Activities Section -->
+        <-- Activities Section -->
         <section id="activities" class="section section--activities">
             <div class="container">
                 <div class="section-header">
@@ -169,12 +169,12 @@
                 </div>
                 
                 <div class="activities-grid" id="activities-grid">
-                    <!-- Activity cards will be populated by JavaScript -->
+                    <-- Activity cards will be populated by JavaScript -->
                 </div>
             </div>
         </section>
 
-        <!-- Visit Information Section -->
+        <-- Visit Information Section -->
         <section id="visit" class="section section--visit">
             <div class="container">
                 <div class="section-header">
@@ -253,7 +253,7 @@
         </section>
     </main>
 
-    <!-- Zone Detail Modal -->
+    <-- Zone Detail Modal -->
     <div class="modal" id="zone-modal">
         <div class="modal-content">
             <div class="modal-header">
@@ -261,12 +261,12 @@
                 <button class="modal-close" id="modal-close">&times;</button>
             </div>
             <div class="modal-body" id="modal-body">
-                <!-- Zone details will be populated by JavaScript -->
+                <-- Zone details will be populated by JavaScript -->
             </div>
         </div>
     </div>
 
-    <!-- Footer -->
+    <-- Footer -->
     <footer class="footer">
         <div class="container">
             <div class="footer-content">

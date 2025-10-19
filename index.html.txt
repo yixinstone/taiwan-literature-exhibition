@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>忠義書聲 - 展覽網站</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="index.html">首頁</a></li>
+      <li><a href="rooms/1-family.html">家國情懷</a></li>
+      <li><a href="rooms/2-battle.html">戰地筆墨</a></li>
+      <li><a href="rooms/3-reflection.html">思辨反思</a></li>
+    </ul>
+  </nav>
+
+  <header class="hero">
+    <h1>忠義書聲</h1>
+    <p>戰後台灣反共愛國文學的三重迴響</p>
+  </header>
+
+  <section class="rooms-overview">
+    <h2>三大展間</h2>
+    <div class="cards">
+      <a class="card" href="rooms/1-family.html">
+        <h3>家國情懷──鄉思與國魂</h3>
+        <p>探討離散與鄉愁，呈現家國認同。</p>
+      </a>
+      <a class="card" href="rooms/2-battle.html">
+        <h3>戰地筆墨──血火與信念</h3>
+        <p>軍中文學與戰鬥文藝的文學實踐。</p>
+      </a>
+      <a class="card" href="rooms/3-reflection.html">
+        <h3>思辨反思──歷史與批判</h3>
+        <p>解嚴後對反共文學的歷史定位。</p>
+      </a>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 忠義書聲展覽</p>
+  </footer>
+</body>
+</html>

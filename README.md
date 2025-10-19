@@ -33,8 +33,7 @@
             </div>
         </div>
     </nav>
-
-    <!-- Main Content -->
+    <-- Main Content -->
     <main class="main-content">
         <!-- Home Section -->
         <section id="home" class="section section--home active">
